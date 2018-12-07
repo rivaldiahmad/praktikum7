@@ -145,7 +145,7 @@ cout << s[0];
 }
 int main()
 {
-      char* kata = (char*) "amirul";
+      char* kata = (char*) "rivaldi";
     balik(kata); cout << endl;
     return 0;
 
